@@ -1,4 +1,1 @@
 altair
-json
-glob
-collections
